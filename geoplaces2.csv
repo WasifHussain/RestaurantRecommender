@@ -1,0 +1,131 @@
+name,address,city,alcohol,smoking_area,dress_code,accessibility,price,Rambience,area,other_services
+Kiku Cuernavaca,Revolucion,Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+puesto de tacos,esquina santos degollado y leon guzman,s.l.p.,No_Alcohol_Served,none,informal,completely,low,familiar,open,none
+El Rinc�n de San Francisco,Universidad 169,San Luis Potosi,Wine-Beer,only at bar,informal,partially,medium,familiar,open,none
+little pizza Emilio Portes Gil,calle emilio portes gil,victoria ,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+carnitas_mata,lic. Emilio portes gil,victoria,No_Alcohol_Served,permitted,informal,completely,medium,familiar,closed,none
+Restaurant los Compadres,Camino a Simon Diaz 155 Centro,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,high,familiar,closed,none
+Taqueria EL amigo ,Calle Mezquite Fracc Framboyanes,Cd Victoria,No_Alcohol_Served,none,casual,completely,low,familiar,open,none
+shi ro ie,Ricardo B. Anaya,victoria,Wine-Beer,section,informal,no_accessibility,high,familiar,open,Internet
+Pollo_Frito_Buenos_Aires,tampico,victoria,No_Alcohol_Served,not permitted,informal,completely,low,quiet,closed,none
+la Estrella de Dimas,Villa de Pozos 192 Villa de Pozos,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Restaurante 75,Villa de Pozos 4497 Villa de Pozos,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Abondance Restaurante Bar,Industrias 908 Valle Dorado,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,low,familiar,closed,none
+El angel Restaurante,Venustiano Carranza 1625 Jardin,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,none
+Restaurante Pueblo Bonito,Mexico 2015 Providencia,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,high,familiar,closed,none
+Mcdonalds Parque Tangamanga,Lateral Salvador Nava Martinez 3145,San Luis Potosi,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,none
+Tortas y hamburguesas el gordo,Ricardo B. Anaya,San Luis Potosi,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,closed,none
+Sirlone,carr. mexico,San Luis Potosi,Wine-Beer,none,informal,completely,medium,familiar,closed,none
+rockabilly ,agustin de iturbide,san luis potosi,Full_Bar,section,informal,completely,low,quiet,closed,variety
+Unicols Pizza,Plaza del Carmen,San Luis Potosi,Wine-Beer,none,informal,completely,low,familiar,closed,none
+TACOS EL GUERO,Plaza del Carmen,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurant El Muladar de Calzada,De Guadalupe 460 San Miguelito,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,closed,none
+La Posada del Virrey,Av. V. Carranza,San Luis Potosi,Wine-Beer,none,casual,completely,high,familiar,closed,none
+Restaurant and Bar and Clothesline Carlos N Charlies,Domingo 10 711 El Empleado,Cuernavaca,Full_Bar,section,informal,no_accessibility,high,familiar,closed,none
+KFC,Plaza del Carmen,San Luis Potosi,No_Alcohol_Served,not permitted,informal,completely,low,familiar,closed,none
+Giovannis,40 Norte Civac 1RA. Seccion,Jiutepec,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,closed,none
+Restaurant Oriental Express,Tangamanga 7 Tangamanga,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Mariscos Tia Licha,avenida salvador montiel ,cuernavaca,No_Alcohol_Served,not permitted,casual,partially,medium,familiar,closed,none
+cafe ambar,Soledad Sn Arboledas de Soledad,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurante la Gran Via,Venustiano Carranza 560 Centro,San Luis Potosi,Wine-Beer,none,casual,no_accessibility,high,familiar,closed,none
+don burguers,r.b. anaya esq. florencia,slp,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,open,none
+Restaurante y Pescaderia Tampico,Ricardo B. Anaya 2700 Estrella de Oriente,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,closed,none
+Rincon del Bife,Soledad Sn Arboledas de Soledad,victoria,Full_Bar,section,informal,completely,high,familiar,closed,variety
+La Fontana Pizza Restaurante and Cafe,Satelite 606 Satelite,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,none
+Restaurante la Estrella de Dima,Soledad Sn Arboledas de Soledad,Soledad,Wine-Beer,none,informal,no_accessibility,high,familiar,closed,none
+El Rincon de San Francisco,1a. de Lozada 1,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Preambulo Wifi Zone Cafe,Anahuac 805,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,quiet,closed,Internet
+El Herradero Restaurante and Bar,Costado Sur Central Camionera Km 2,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,none
+Koye Sushi,Nereo Rodriguez Barragan 450 E Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,closed,none
+Restaurant Teely,La Pradera,Cuernavaca,Wine-Beer,section,casual,no_accessibility,high,familiar,closed,none
+la parroquia,venustiano carranza,san luis potosi,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,none
+Luna Cafe,Francisco I. Madero 215,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,none
+Hamburguesas La perica,cd. mier,victoria,No_Alcohol_Served,permitted,informal,completely,low,quiet,open,none
+Restaurante El Reyecito,Agricultura 595 del Valle,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+churchs,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Dominos Pizza,Ricardo B. Anaya,San Luis Potosi,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,none
+el pueblito,venustiano carranza,Cuernavaca,Wine-Beer,not permitted,informal,completely,medium,familiar,closed,none
+emilianos,venustiano carranza,san luis potos,Wine-Beer,none,informal,completely,low,familiar,closed,variety
+Restaurant Bar Hacienda los Martinez,Santos Degollado 745 los Alamitos,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,none
+Vips,Emiliano Zapata No. 825 Tlaltenongo,Cuernavaca,Wine-Beer,none,informal,completely,medium,familiar,closed,none
+Restaurante Alhondiga,Alhondiga 62 Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+los Toneles,Estatuto Juridico 1040 Burocratas,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,none
+Restaurant los Pinos,Federal Mexico - Acapulco 10 3 de Mayo,Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Restaurante Guerra,20 de Noviembre 1817 Tlaxcala,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,none
+Michiko Restaurant Japones,Cordillera de Los Alpes 160 Lomas 2 Seccion,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Restaurante Marisco Sam,Ignacio Allende 785 Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+la Cochinita Pibil Restaurante Yucateco,Venustiano Carranza 2175 Jardin,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,none
+Potzocalli,Carretera Central Sn,San Luis Potosi,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurante la Parroquia Potosina,Venustiano Carranza 303 Centro,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,none
+El Oceano Dorado,Libramiento Burgos Colonia Las Animas,Cuernavaca,Full_Bar,permitted,informal,completely,medium,familiar,open,variety
+Restaurante El Chivero S.A. de C.V.,Angel Veral 328 Altamira,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,high,familiar,closed,none
+Restaurant la Chalita,Guajardo Sn San Luis Potosi Centro,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,medium,familiar,closed,none
+El Club,Mexico 810 Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Gordas de morales,Soledad Sn Arboledas de Soledad,Cuernavaca,Full_Bar,section,informal,completely,medium,familiar,closed,none
+Restaurante Versalles,Francisco I. Madero 145 Centro,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,closed,none
+Subway,Rio Mayo 17 Vista Hermosa,Cuernavaca,No_Alcohol_Served,not permitted,informal,no_accessibility,low,familiar,closed,none
+La Cantina Restaurante,Ignacio Aldama 300 Centro,San Luis Potosi,Full_Bar,none,informal,no_accessibility,high,familiar,closed,none
+Cenaduria El Rincón de Tlaquepaque,av. seminario,san luis potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Los Vikingos,36 Sur Civac,Jiutepec,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Hamburguesas Valle Dorado,Av. Coral,San Luis Potosi,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+la Cantina,Capitan Caldera No. 420 Tequisqueapan,San Luis Potosi,Full_Bar,none,informal,no_accessibility,high,familiar,closed,none
+dairy queen,Soledad Sn Arboledas de Soledad,Cuernavaca,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Arrachela Grill,69 Tres De Mayo,Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+vips,Soledad Sn Arboledas de Soledad,Cuernavaca,Full_Bar,not permitted,informal,completely,medium,familiar,closed,variety
+palomo tec,blvrd emilio portes gil,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurante Casa de las Flores,General Mariano Arista 1205 Barrio de Tequisquiap,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,none
+VIPS,NICOLAS ZAPATA 300,San Luis Potosi,No_Alcohol_Served,not permitted,casual,completely,low,familiar,closed,none
+TACOS CORRECAMINOS,Soledad Sn Arboledas de Soledad,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurant Wu Zhuo Yi,Himno Nacional 100 Avenida,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+El Mundo de la Pasta,Rio Papaloapan 265 Lomas de San Luis (3),San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,high,familiar,closed,none
+Restaurante la Cantina,De La Estrella 2005 Estrella de Oriente,San Luis Potosi,Full_Bar,section,informal,no_accessibility,medium,familiar,closed,none
+Gorditas Doa Gloria,sevilla y olmedo 715 a,san luis potosi,No_Alcohol_Served,not permitted,casual,no_accessibility,low,familiar,closed,none
+el lechon potosino ,circuito oriente esq. carretera 57,san luis potosi ,No_Alcohol_Served,permitted,casual,no_accessibility,low,familiar,open,none
+Restaurante Bar Fu-hao,Jesus Goytortua 390 Tangamanga,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,high,familiar,closed,none
+tortas hawai,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,Cuernavaca,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,none
+Carls Jr,Av. V. Carranza,San Luis Potosi,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,none
+Hamburguesas saul,Av. Saan Luis enttre moctezuma y salinas,San Luis Potosi,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Carreton de Flautas y Migadas,Soledad Sn Arboledas de Soledad,Ciudad Victoria,No_Alcohol_Served,permitted,informal,completely,low,familiar,open,none
+Rincon Huasteco,Soledad Sn Arboledas de Soledad,Cuernavaca,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+El cotorreo,Emiliano Zapata Col. Tres de Mayo,Cuernavaca,Wine-Beer,permitted,informal,no_accessibility,low,familiar,open,none
+Gorditas Dona Tota,Zaragoza entre Francisco Zarco y Lopez Velarde,Cd. Victoria,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,none
+Pizzeria Julios,Soledad Sn Arboledas de Soledad,s.l.p,No_Alcohol_Served,not permitted,informal,partially,medium,familiar,closed,none
+Chilis Cuernavaca,Rio Mayo Colonia Vista Hermosa Esq. Rio Balsas,Cuernavaca,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,none
+Cafe Chaires,Soledad Sn Arboledas de Soledad,San Luis Potosi,No_Alcohol_Served,not permitted,informal,completely,low,familiar,closed,none
+tacos los volcanes,avenida hivno nacional,san luis potosi,No_Alcohol_Served,none,informal,completely,low,quiet,closed,none
+Little Cesarz,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,Ciudad Victoria,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,none
+cafe punta del cielo,Av. Saan Luis enttre moctezuma y salinas,Cuernavaca,No_Alcohol_Served,permitted,formal,completely,medium,familiar,closed,none
+tacos de la estacion,Soledad Sn Arboledas de Soledad,Cuernavaca,No_Alcohol_Served,none,informal,no_accessibility,low,quiet,open,none
+Restaurant Orizatlan,Pascual M. Hernandez 240,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,none
+Restaurant Familiar El Chino,Paseo de las Fuentes,Jiutepec,Wine-Beer,permitted,casual,partially,medium,familiar,open,variety
+Restaurant de Mariscos de Picon,Miguel Barragan 46 Centro,San Luis Potosi,No_Alcohol_Served,section,informal,no_accessibility,low,familiar,closed,none
+Sanborns Casa Piedra,Lomas del Mirador,Cuernavaca,Wine-Beer,only at bar,informal,no_accessibility,medium,familiar,closed,Internet
+La Estrella de Dimas,Av. de los Pintores,San Luis Potosi,No_Alcohol_Served,none,informal,partially,medium,familiar,closed,variety
+pizza clasica,524 Soledad de Graciano Sanchez,Soledad,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Carnitas Mata  Calle 16 de Septiembre,16 de Septiembre,victoria ,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+Restaurante de Mariscos la Langosta,Cordillera de Los Alpes 675 Loma Verde,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Restaurante Bar El Gallinero,Pascual M. Hernandez 210 Centro,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,high,familiar,closed,none
+puesto de gorditas,frente al tecnologico,victoria,No_Alcohol_Served,permitted,informal,no_accessibility,low,familiar,open,none
+Log Yin,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,victoria,No_Alcohol_Served,none,informal,no_accessibility,low,familiar,closed,none
+Mariscos El Pescador,Himno Nacional 2104 Tangamanga,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+carnitas mata calle Emilio Portes Gil,Emilio Portes Gil,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+crudalia,Av. Saan Luis enttre moctezuma y salinas,victoria,Wine-Beer,section,casual,completely,low,quiet,open,none
+tacos de barbacoa enfrente del Tec,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,victoria,No_Alcohol_Served,not permitted,informal,completely,low,familiar,open,none
+Restaurant Las Mananitas,Ricardo Linares 107,Cuernavaca,Wine-Beer,none,formal,no_accessibility,high,familiar,closed,none
+Restaurante El Cielo Potosino,Julian de Los Reyes 400 Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Mikasa,Himno nacional esq. Blvd. Juarez,Cuernavaca,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,none
+Cafeteria cenidet,Interior Internado Palmira SN,Cuernavaca,No_Alcohol_Served,not permitted,informal,no_accessibility,low,quiet,closed,none
+Restaurante Tiberius,Munoz Sn Centro,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Cabana Huasteca,Cuauhtemoc 455,San Luis Potosi,No_Alcohol_Served,none,informal,partially,medium,familiar,closed,none
+Gorditas Dona Tota,Cuauhtemoc 455,San Luis Potosi,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,none
+Cafeteria y Restaurant El Pacifico,Constitucion 200 Centro,San Luis Potosi,Wine-Beer,section,informal,no_accessibility,medium,familiar,closed,none
+La Virreina,Av. Carranza 830,San Luis Potosi,Wine-Beer,none,informal,no_accessibility,medium,familiar,closed,none
+Tortas Locas Hipocampo,Venustiano Carranza 719 Centro,San Luis Potosi,No_Alcohol_Served,not permitted,informal,no_accessibility,medium,familiar,closed,none
+tacos abi,Ricardo B. Anaya,victoria,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+la perica hamburguesa,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,victoria,No_Alcohol_Served,none,informal,completely,medium,familiar,closed,none
+McDonalds Centro,Rayon sn col. Centro,Cuernavaca,No_Alcohol_Served,not permitted,informal,partially,low,familiar,closed,none
+Chaires,Ricardo B. Anaya,San Luis Potosi,No_Alcohol_Served,not permitted,informal,completely,medium,familiar,closed,none
+Sushi Itto,Venustiano Carranza 1809 C Polanco,San Luis Potosi,No_Alcohol_Served,none,informal,no_accessibility,medium,familiar,closed,none
+Paniroles,Ricardo B. Anaya,victoria,Wine-Beer,not permitted,informal,no_accessibility,medium,quiet,closed,Internet
+Restaurant Bar Coty y Pablo,Paseo de Las Fuentes 24 Pedregal de Las Fuentes,Jiutepec,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none
+sirloin stockade,Av. Saan Luis enttre moctezuma y salinas,Jiutepec,No_Alcohol_Served,none,informal,completely,low,familiar,closed,none

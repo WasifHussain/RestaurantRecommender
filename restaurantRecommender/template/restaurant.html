@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Restaurant</title>
+</head>
+<body>
+    {% extends 'base.html' %}
+    {% load crispy_forms_tags %}
+    {%block content%}
+    <div class="container-fluid mt-3 mb-2">
+        {% if not context.is_favorite %}
+        <div>
+            <a class="btn btn-success" href="/add_to_favorite/{{restaurant.id}}">Add to favorites</a>
+        </div>
+        {% else %}
+        <div>
+            <a class="btn btn-danger" href="/remove_from_favorites/{{restaurant.id}}">Remove from favorites</a>
+        </div>
+        {% endif %}
+    </div>
+
+
+    <div class="container-fluid mt-2">
+        <table class="table table-hover">
+            <tr>
+                <td align="center" colspan="2"><h4>{{restaurant.name}}</h4></td>
+            </tr>
+            <tr>
+                <th>Address</th>
+                <td>{{restaurant.address}}</td>
+            </tr>
+            <tr>
+                <th>City</th>
+                <td>{{restaurant.city}}</td>
+            </tr>
+            <tr>
+                <th>Alcohol Availability</th>
+                <td>{{restaurant.alcohol}}</td>
+            </tr>
+            <tr>
+                <th>Smoking-Area</th>
+                <td>{{restaurant.smoking_area}}</td>
+            </tr>
+            <tr>
+                <th>Dress Code</th>
+                <td>{{restaurant.dresscode}}</td>
+            </tr>
+            <tr>
+                <th>Accessibility</th>
+                <td>{{restaurant.accessibility}}</td>
+            </tr>
+            <tr>
+                <th>Price Range</th>
+                <td>{{restaurant.price}}</td>
+            </tr>
+            <tr>
+                <th>Ambience</th>
+                <td>{{restaurant.ambience}}</td>
+            </tr>
+            <tr>
+                <th>Area Around</th>
+                <td>{{restaurant.area}}</td>
+            </tr>
+            <tr>
+                <th>Other Services</th>
+                <td>{{restaurant.other_services}}</td>
+            </tr>
+        </table>
+    </div>
+
+  
+    <div class="container-fluid mt-3 mb-4">
+        <form action="/restaurant/{{restaurant.id}}" method="POST">
+            {% csrf_token %}
+            {{ review_form|crispy }}
+        <input class="btn btn-outline-primary mt-2" type="submit" value="Submit" />
+        </form>
+    </div>
+        <div class="container-fluid">
+           <h6>You might also like:</h6>
+            {% for restaurant in recommended_restaurants %}
+            <span class="badge rounded-pill bg-info"><a href = "/restaurant/{{restaurant.id}}" style="color: white; text-decoration: none;">
+                {{ restaurant.name }}</a></span>
+             
+            {% endfor %}
+            
+        </div>
+    <div class="container-fluid my-2">
+        <h6>Comments</h6>
+        <div class="container">
+            {% for review in reviews %}
+            <div class="container-fluid mt-2">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="card">
+                            <h5 class="card-header">
+                                {{review.user.username}}
+                            </h5>
+                            <div class="card-body">
+                                <p class="card-text">
+                                    {{review.review}}
+                                </p>
+                            </div>
+                            <div class="card-footer">
+                                {{review.created_at}}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endblock %}
+  
+</body>
+</html>

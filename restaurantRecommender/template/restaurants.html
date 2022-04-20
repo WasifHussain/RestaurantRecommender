@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Restaurants</title>
+</head>
+<body>
+    {% extends 'base.html' %}
+    {%block content%}
+    <div class="container-fluid mt-2">
+        <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search Restaurants" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+    </div>
+
+    {%for restaurant in restaurants%}
+    <div class="container-fluid mt-2">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card">
+                    <h5 class="card-header">
+                        {{restaurant.name}}
+                    </h5>
+                    <div class="card-body">
+                        <p class="card-text">
+                            <i>Address:</i> {{restaurant.address}}<br>
+                            <i>City:</i> {{restaurant.city}}<br>
+                          <i>Price Range:</i> {{restaurant.price}}
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <a href="/restaurant/{{restaurant.id}}" class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    <div class="container-fluid mt-2">
+        <div class="row">
+            <div class="col-md-12">
+                <nav>
+                    <ul class="pagination">
+                        <li class="page-item">
+                            {% if pagination.current_page > 1 %}
+                            <a class ="page-link" href = "/restaurants/page/{{pagination.previous_page}}">Previous Page</a>
+                        {% endif %}
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="/restaurants/page/1">1</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="/restaurants/page/2">2</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="/restaurants/page/3">3</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="/restaurants/page/4">4</a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="/restaurants/page/5">5</a>
+                        </li>
+                        <li class="page-item">
+                            {% if pagination.current_page != pagination.last_page %}
+                            <a class = "page-link" href = "/restaurants/page/{{pagination.next_page}}">Next Page</a>
+                            {% endif %}
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    {% endblock %}
+</body>
+</html>
